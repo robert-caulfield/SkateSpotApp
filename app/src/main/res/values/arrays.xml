@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_marker_color">
+        <item>@string/preferences_marker_color_red</item>
+        <item>@string/preferences_marker_color_green</item>
+        <item>@string/preferences_marker_color_blue</item>
+    </array>
+    <array name="security_level">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </array>
+</resources>

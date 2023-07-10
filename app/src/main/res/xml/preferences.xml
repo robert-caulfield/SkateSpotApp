@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="preference_zoom"
+        android:summary="@string/preferences_zoom_restriction_summary"
+        android:title="@string/preferences_zoom_restriction" />
+    <ListPreference
+        android:defaultValue="@string/preferences_marker_color_red"
+        android:entries="@array/pref_marker_color"
+        android:entryValues="@array/pref_marker_color"
+        android:key="preference_marker_color"
+        android:title="@string/preferences_marker_color"
+        app:summary="@string/preferences_marker_color_summary" />
+</PreferenceScreen>

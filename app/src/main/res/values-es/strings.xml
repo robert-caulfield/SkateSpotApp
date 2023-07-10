@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">SkateSpotApp</string>
+
+    <string name = "login_header">ESP Skate Spot Login</string>
+    <string name = "login_email">ESP Email</string>
+    <string name = "login_password">ESP Password</string>
+    <string name="login_loginButton">ESP Login</string>
+    <string name="login_success">ESP Logged in successfully</string>
+    <string name="login_fail">ESP Failed to login</string>
+
+    <!-- Detail Screen -->
+    <string name="detail_show_location">ESP Show Location</string>
+
+    <!-- Skate Spot List Screen -->
+    <string name="skate_spot_list_head">ESP Skate Spots</string>
+    <string name="security_level_pre">ESP Security Level: </string>
+
+    <!-- Option Menu -->
+    <string name="menu_settings">ESP Settings</string>
+    <string name="menu_set_filter">ESP Security Filter</string>
+    <string name="menu_add_entry">ESP Add New Spot</string>
+
+    <!-- Preferences -->
+    <string name="preferences_zoom_restriction">ESP Zoom Restriction</string>
+    <string name="preferences_zoom_restriction_summary">ESP If disabled, the mapview will have no zoom bounds.</string>
+
+    <string name="preferences_marker_color">ESP Marker Color</string>
+    <string name="preferences_marker_color_summary">ESP Sets the color of the marker in the mapview.</string>
+
+    <string name="preferences_marker_color_red">ESP Red</string>
+    <string name="preferences_marker_color_green">ESP Green</string>
+    <string name="preferences_marker_color_blue">ESP Blue</string>
+
+    <!-- Add Screen -->
+    <string name="add_header">ESP Add New Spot</string>
+    <string name="add_name">ESP Name</string>
+    <string name="add_security_level">ESP Security Level</string>
+    <string name="add_description">ESP Description</string>
+    <string name="add_location">ESP Set Location</string>
+
+    <string name="add_location_good">ESP Location Added!</string>
+    <string name="add_location_bad">ESP Location Was Not Added!</string>
+
+    <string name="add_good">ESP Skate spot uploaded!</string>
+    <string name="add_bad">ESP Please enter all fields!</string>
+    <string name="add_error">ESP SkateSpot failed to upload to Firestore!</string>
+
+
+    <string name="security_level_low">ESP Low</string>
+    <string name="security_level_medium">ESP Medium</string>
+    <string name="security_level_high">ESP High</string>
+
+    <!-- Filter Activity -->
+    <string name="filter_head">ESP Set Filter</string>
+    <string name="filter_reset">ESP Reset Filter</string>
+</resources>
