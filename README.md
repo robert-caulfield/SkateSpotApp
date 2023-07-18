@@ -2,7 +2,7 @@
 
 **Note: Firestore and Google Maps api keys not included in this repository. This repository is only for demonstration purposes.**
 
-SkateSpotApp! 🛹 This app is designed for skateboarders create and share skate spots with others around the world.
+SkateSpotApp! 🛹 This android app is designed for skateboarders to create and share skate spots with others around the world.
 
 This app was made in the Kotlin language, and utilizes Cloud Firestore and Google Maps Platform API.  
 
